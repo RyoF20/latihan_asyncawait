@@ -59,4 +59,29 @@ void main () {
 // num nilai = hitung(100,200,300);
 // print(nilai);
 
+
+//LATIHAN 
+// List<Map> cetak(String nama, int umur, double berat) {
+
+//   List<Map> data = [];
+
+//   data.add({
+//     'nama': nama,
+//     'umur': umur,
+//     'berat': berat,
+//   });
+
+//   return data;
+
+// }
+
+// var nilai = cetak('Ryo',19,55);
+
+// print(nilai[0]['nama']);
+// print(nilai[0]['umur']);
+// print(nilai[0]['berat']);
+
+
+
+
 }
